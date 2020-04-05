@@ -31,3 +31,9 @@ body
 #post{
     margin: 1em;
 }
+#footer{
+    background-color: grey;
+    padding: 1rem;
+    color: #fff;
+    line-height: 12px;
+}
