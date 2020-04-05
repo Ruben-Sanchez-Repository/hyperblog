@@ -38,6 +38,11 @@ body
 #post{
     margin: 1em;
 }
+
+.image{
+  width: 100%;    
+}
+
 #footer{
     background-color: grey;
     padding: 1rem;
